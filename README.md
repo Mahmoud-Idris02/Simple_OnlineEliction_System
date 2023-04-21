@@ -1,4 +1,4 @@
-###Election Voting System
+Election Voting System
 This is a simple election voting system built with Python and Tkinter. The system allows users to vote for two candidates and displays the winner and percentage of votes.
 
 #Getting Started
