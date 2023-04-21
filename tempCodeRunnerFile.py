@@ -1,0 +1,1 @@
+, font=("Helvetica", 24, "bold"), fg="white", bg="#2c3e50"
